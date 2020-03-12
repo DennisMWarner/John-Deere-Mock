@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img.logo {
+}
+
+header {
+  outline: solid lightgray 0.05rem;
+}
+
+div.nav {
+}
+
+.topright,
+.topright2 {
+  text-align: right;
+}
+
+.the9 {
+  width: 137%;
+  height: 137%;
+}
